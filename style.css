@@ -3,3 +3,35 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+#featured-property {
+  text-align: center;
+}
+
+a {
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: gray;
+}
+
+#figcatpion {
+  text-align: center;
+  font-size: small;
+}
+
+p#featured-property {
+  width: 800px;
+  text-align: center;
+}
+
+div {
+  float: left;
+  background-color: green;
+  text-align: center;
+  width: 25%;
+}
